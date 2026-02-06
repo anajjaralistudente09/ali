@@ -1,0 +1,16 @@
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\bin\Debug\net8.0-windows\cs.exe
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\bin\Debug\net8.0-windows\cs.deps.json
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\bin\Debug\net8.0-windows\cs.runtimeconfig.json
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\bin\Debug\net8.0-windows\cs.dll
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\bin\Debug\net8.0-windows\cs.pdb
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.Form1.resources
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.csproj.GenerateResource.cache
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.AssemblyInfoInputs.cache
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.AssemblyInfo.cs
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.csproj.CoreCompileInputs.cache
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.dll
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\refint\cs.dll
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.pdb
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\cs.genruntimeconfig.cache
+C:\Users\ANAJJAR.23169\source\repos\cs\cs\obj\Debug\net8.0-windows\ref\cs.dll
